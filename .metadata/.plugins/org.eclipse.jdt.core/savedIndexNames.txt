@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Usuario\Desktop\Programação\Udemy - Nelio\workplace-udemy-Nelio\src\.metadata\.plugins\org.eclipse.jdt.core
